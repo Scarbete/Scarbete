@@ -2,7 +2,7 @@
 
 ## I'm a Beginner Full-Stack and iOS Developer
 
-![JavaScript](https://img.shields.io.badge/<LABEL>-<MESSAGE>-<COLOR>)
+![JavaScript](https://img.shields.io.badge/-<JavaScript>-<RED>)
 
 
     Latest works
