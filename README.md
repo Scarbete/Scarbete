@@ -1,13 +1,5 @@
 <img src="https://raw.githubusercontent.com/Scarbete/Scarbete/main/assets/Quasar.png" width="100%" alt="myImage">
 
-<style>
-.redblock {
-    background: red;
-}
-</style>
-
-<div class="redblock">plp</div>>
-
 # About me:
 - My name is Kutman, i'm 20 years old
 - frontend, backend, ios developer
