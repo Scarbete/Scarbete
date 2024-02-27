@@ -1,10 +1,25 @@
 <img src="https://raw.githubusercontent.com/Scarbete/Scarbete/main/assets/Quasar.png" width="100%" alt="myImage">
 
+<style>
+.redblock {
+    background: red;
+}
+</style>
+
+<div class="redblock">plp</div>>
+
 # About me:
 - My name is Kutman, i'm 20 years old
 - frontend, backend, ios developer
 
-## Socials:
+- 🔭 I’m currently working on StartUp
+- 🌱 I’m currently learning Backend on Node.js
+- 👯 I'm not looking for cooperation on projects yet.
+- 👨‍💻 All of my projects are available at https://github.com/Scarbete?tab=repositories
+- 💬 Ask me about JS, React, Redux, React Query
+- 📫 How to reach me scarbete.1338@gmail.com
+
+## - Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&style=for-the-badge&labelColor=none)]()
 [![Instagram](https://img.shields.io/badge/-Instagram-black?logo=instagram&style=for-the-badge&labelColor=none)]()
 [![Discord](https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge&labelColor=none)]()
