@@ -41,6 +41,7 @@
 ![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&style=for-the-badge&logoColor=white&labelColor=0170FE)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&style=for-the-badge&logoColor=white&labelColor=646CFF)
 ![Webpack](https://img.shields.io/badge/-Webpack-gray?logo=webpack&style=for-the-badge&labelColor=gray)
+![Jest](https://img.shields.io/badge/-Jest-gray?logo=jest&style=for-the-badge&labelColor=gray)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=white&labelColor=F24E1E)
 ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&style=for-the-badge&logoColor=white&labelColor=000000)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&style=for-the-badge&logoColor=white&labelColor=0052CC)
