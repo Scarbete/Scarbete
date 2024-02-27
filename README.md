@@ -11,12 +11,12 @@
 - 📫 How to reach me scarbete.1338@gmail.com
 
 ## - Socials
-[![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&style=for-the-badge&labelColor=none)]()
-[![Instagram](https://img.shields.io/badge/-Instagram-black?logo=instagram&style=for-the-badge&labelColor=none)]()
-[![Discord](https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge&labelColor=none)]()
-[![TikTok](https://img.shields.io/badge/-TikTok-black?logo=tiktok&style=for-the-badge&labelColor=none)]()
-[![Facebook](https://img.shields.io/badge/-Facebook-black?logo=facebook&style=for-the-badge&labelColor=none)]()
-[![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=for-the-badge&logoColor=red&labelColor=none)]()
+![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&style=for-the-badge&labelColor=none)
+![Instagram](https://img.shields.io/badge/-Instagram-black?logo=instagram&style=for-the-badge&labelColor=none)
+![Discord](https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge&labelColor=none)
+![TikTok](https://img.shields.io/badge/-TikTok-black?logo=tiktok&style=for-the-badge&labelColor=none)
+![Facebook](https://img.shields.io/badge/-Facebook-black?logo=facebook&style=for-the-badge&labelColor=none)
+![YouTube](https://img.shields.io/badge/-YouTube-black?logo=youtube&style=for-the-badge&logoColor=red&labelColor=none)
 
 # Tech stack:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=for-the-badge&logoColor=white&labelColor=E34F26)
@@ -47,8 +47,8 @@
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&style=for-the-badge&logoColor=white&labelColor=0079BF)
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scarbete&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Scarbete&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scarbete&theme=dark)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Scarbete&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
