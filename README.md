@@ -46,6 +46,9 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&style=for-the-badge&logoColor=white&labelColor=0052CC)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&style=for-the-badge&logoColor=white&labelColor=0079BF)
 
+## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scarbete&theme=dark)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Scarbete&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Scarbete&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
