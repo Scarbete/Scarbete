@@ -16,7 +16,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=for-the-badge&logoColor=white&labelColor=336791)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge&logoColor=white&labelColor=181717)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&style=for-the-badge&logoColor=white&labelColor=FCA121)
+![GitLab](https://img.shields.io/badge/-GitLab-gray?logo=gitlab&style=for-the-badge&labelColor=gray)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge&logoColor=white&labelColor=CB3837)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white&labelColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-gray?logo=swagger&style=for-the-badge&labelColor=gray)
