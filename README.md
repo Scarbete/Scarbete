@@ -1,7 +1,11 @@
 
-    ![Header](https://github.com/Scarbete/Scarbete/blob/main/assets/Quasar.png)
+[//]: # (    ![Header]&#40;https://github.com/Scarbete/Scarbete/blob/main/assets/Quasar.png&#41;)
 
-![Header](https://github.com/Scarbete/Scarbete/blob/main/assets/Scarbete.png)
+[//]: # (![Header]&#40;https://github.com/Scarbete/Scarbete/blob/main/assets/Scarbete.png&#41;)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Scarbete/Scarbete/main/assets/Quasar.png" width="100%">
+</p>
 
     About me
 
