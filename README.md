@@ -3,7 +3,6 @@
 # About me:
 - My name is Kutman, i'm 20 years old
 - frontend, backend, ios developer
-
 - 🔭 I’m currently working on StartUp
 - 🌱 I’m currently learning Backend on Node.js
 - 👯 I'm not looking for cooperation on projects yet.
