@@ -46,6 +46,8 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&style=for-the-badge&logoColor=white&labelColor=0052CC)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&style=for-the-badge&logoColor=white&labelColor=0079BF)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scarbete&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
     Latest works
 
     Languages and tools
