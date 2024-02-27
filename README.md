@@ -3,11 +3,11 @@
 # About me:
 - My name is Kutman, i'm 20 years old
 - frontend, backend, ios developer
-- 🔭 I’m currently working on StartUp
+- 🔭 I’m currently working on GeekStudio
 - 🌱 I’m currently learning Backend on Node.js
 - 👯 I'm not looking for cooperation on projects yet.
 - 👨‍💻 All of my projects are available at https://github.com/Scarbete?tab=repositories
-- 💬 Ask me about JS, React, Redux, React Query
+- 💬 Ask me about JS, React, Redux, Next.js, TypeScript
 - 📫 How to reach me scarbete.1338@gmail.com
 
 ## - Socials
