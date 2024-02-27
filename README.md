@@ -2,9 +2,7 @@
 
 ## I'm a Beginner Full-Stack and iOS Developer
 
-![JavaScript](https://img.shields.io/badge/:badgeContent
-)
-<img alt="Static Badge" src="assets/Scarbete.png">
+![JavaScript](https://img.shields.io.badge/<LABEL>-<MESSAGE>-<COLOR>)
 
 
     Latest works
