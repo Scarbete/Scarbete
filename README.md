@@ -20,7 +20,7 @@
 ![npm](https://img.shields.io/badge/-npm-white?logo=npm&style=for-the-badge&logoColor=fff&labelColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-white?logo=postman&style=for-the-badge&logoColor=fff&labelColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-white?logo=swagger&style=for-the-badge&logoColor=fff&labelColor=black)
-![Material-UI](https://img.shields.io/badge/-Mui-white?logo=material-ui&style=for-the-badge&logoColor=fff&labelColor=black)
+![Material-UI](https://img.shields.io/badge/-Mui-white?logo=mui&style=for-the-badge&logoColor=fff&labelColor=black)
 ![Ant Design](https://img.shields.io/badge/-AntDesign-white?logo=ant-design&style=for-the-badge&logoColor=fff&labelColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-white?logo=vite&style=for-the-badge&logoColor=fff&labelColor=black)
 ![Webpack](https://img.shields.io/badge/-Webpack-white?logo=webpack&style=for-the-badge&logoColor=fff&labelColor=black)
