@@ -1,32 +1,21 @@
 <img src="https://raw.githubusercontent.com/Scarbete/Scarbete/main/assets/Quasar.png" width="100%" alt="myImage">
 
-# About me:
-### Hello! My name is Kutman, and I’m a 20-year-old full-stack developer with expertise spanning frontend, backend, and mobile development for both iOS and Android platforms.
- - 💼 Currently: I am working at the Prosecutor General's Office, contributing to impactful projects.
- - 🚀 Learning Focus: Expanding my skillset in DevOps, with a focus on Python and CI/CD pipelines.
- - 📂 Portfolio: Explore my projects on [GitHub](https://github.com/Scarbete?tab=repositories).
-# Skills and Expertise:
+# Обо мне:
+### Привет! Меня зовут Кутман, я 20-летний full-stack разработчик с опытом в frontend, backend и мобильной разработке для платформ iOS и Android.
+ - 💼 В настоящее время: Работаю в Генеральной прокуратуре над значимыми проектами.
+ - 🚀 Изучаю: DevOps, углубляюсь в Python и CI/CD pipeline.
+ - 📂 Портфолио: Мои проекты доступны на [GitHub](https://github.com/Scarbete?tab=repositories).
+
+# Навыки и технологии:
  - Frontend: JavaScript, React, Redux, Zustand, Next.js, TypeScript
  - Backend: Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, Python, Django (REST)
- - Mobile Development: Swift, SwiftUI, React Native
-# Let's Connect:
- - Email: [scarbete.1338@gmail.com](mailto:scarbete.1338@gmail.com)
+ - Мобильная разработка: Swift, SwiftUI, React Native
+
+# Контакты для связи:
+ - Почта: [scarbete.1338@gmail.com](mailto:scarbete.1338@gmail.com)
  - Telegram: [@impxrfect](https://t.me/impxrfect)
 
-<!-- - My name is Kutman, i'm 20 years old
-- frontend, backend, ios, android developer
-- 🔭 I currently work in the Prosecutor General's Office.
-- 🌱 I’m currently learning DevOps on Python and CI/CD pipelines
-- 👨‍💻 All of my projects are available at https://github.com/Scarbete?tab=repositories
-- 💬 Ask me about:
-  - Frontend: JS, React, Redux, Zustand, Next.js, TypeScript
-  - Backend: Node.js, Express.js, Nest.js, MongoDB, PostgreSQL
-  - Mobile: Swift, SwiftUI, React Native
-- 📫 My contacts: 
-  - Email: scarbete.1338@gmail.com
-  - Telegram: https://t.me/impxrfect -->
-
-## - Socials
+## Социальные сети
 ![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&style=for-the-badge&labelColor=none)
 ![Instagram](https://img.shields.io/badge/-Instagram-black?logo=instagram&style=for-the-badge&labelColor=none)
 ![Discord](https://img.shields.io/badge/-Discord-black?logo=discord&style=for-the-badge&labelColor=none)
