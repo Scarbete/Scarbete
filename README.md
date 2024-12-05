@@ -64,7 +64,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge&logoColor=white&labelColor=181717)
 ![GitLab](https://img.shields.io/badge/-GitLab-gray?logo=gitlab&style=for-the-badge&labelColor=gray)
 
-## 📊 GitHub Stats:
+## 🏆 GitHub Stats:
 ![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Scarbete&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Scarbete&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
