@@ -43,6 +43,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=white&labelColor=3178C6)
 ![React](https://img.shields.io/badge/-React-gray?logo=react&style=for-the-badge&labelColor=gray)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoColor=white&labelColor=764ABC)
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=zustand&style=for-the-badge&logoColor=white&labelColor=764ABC)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=for-the-badge&logoColor=white&labelColor=000000)
 ![Material-UI](https://img.shields.io/badge/-Mui-0081CB?logo=mui&style=for-the-badge&logoColor=white&labelColor=0081CB)
 ![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&style=for-the-badge&logoColor=white&labelColor=0170FE)
