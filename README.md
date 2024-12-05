@@ -67,7 +67,7 @@
 
 ## 🏆 GitHub Stats:
 ![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Scarbete&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Scarbete&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Scarbete&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
