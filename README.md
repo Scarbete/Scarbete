@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Scarbete/Scarbete/main/assets/Scarbete.png" width="100%" alt="myImage">
+<img src="https://raw.githubusercontent.com/Scarbete/Scarbete/main/assets/banner.png" width="100%" alt="myImage">
 
 # Обо мне:
 ### Привет! Меня зовут Кутман, я 20-летний full-stack разработчик с опытом в frontend, backend и мобильной разработке для платформ iOS и Android.
